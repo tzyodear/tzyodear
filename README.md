@@ -1,4 +1,6 @@
-### Hi there 👋
+### 时刻自省
+
+你的代码如果要展示给别人看，应该是给别人欣赏的，而不是别人看了都觉得是💩
 
 <!--
 **tzyodear/tzyodear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
